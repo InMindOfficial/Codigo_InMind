@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color:#cacadd;
+    background-color: #cacadd;
     padding: 3rem;
 }
 
@@ -103,7 +103,7 @@ body {
     padding: 0.8rem 1.2rem;
     border: none;
     border-radius: 10px;
-    box-shadow: 1px 1px 6px #0000001c;
+    box-shadow: 1px 1px 6px   #5c5757;
 }
 
 .input-box input:hover {
@@ -122,7 +122,7 @@ body {
 }
 
 .input-box input::placeholder {
-    color: #0000001c;
+    color: #312a2a5b;      /*visibilidade letra dentro da caixa de texto*/
 }
 
 .gender-group {
@@ -144,7 +144,7 @@ body {
 .gender-input label {
     font-size: 0.81rem;
     font-weight: 600;
-    color: #0000001c;
+    color: #312a2a5b;  
 }
 
 .continue-button button {
